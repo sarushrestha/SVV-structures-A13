@@ -6,6 +6,7 @@ SVV-structures is the repository containing all code for the structures assignme
 
 ### Requirements
 *Python 3.x
+
 *Git
 
 ##  Usage
